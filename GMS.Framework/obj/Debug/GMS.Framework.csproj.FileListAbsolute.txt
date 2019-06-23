@@ -1,0 +1,5 @@
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.Framework\obj\Debug\GMS.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.Framework\bin\Debug\GMS.Framework.dll
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.Framework\bin\Debug\GMS.Framework.pdb
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.Framework\obj\Debug\GMS.Framework.dll
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.Framework\obj\Debug\GMS.Framework.pdb

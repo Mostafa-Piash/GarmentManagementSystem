@@ -1,0 +1,9 @@
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.DAL\obj\Debug\GMS.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.DAL\bin\Debug\GMS.DAL.dll
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.DAL\bin\Debug\GMS.DAL.pdb
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.DAL\bin\Debug\GMS.Entity.dll
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.DAL\bin\Debug\GMS.Framework.dll
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.DAL\bin\Debug\GMS.Entity.pdb
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.DAL\bin\Debug\GMS.Framework.pdb
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.DAL\obj\Debug\GMS.DAL.dll
+C:\Users\Jesan\Desktop\GarmentManagementSystem\GMS\GMS.DAL\obj\Debug\GMS.DAL.pdb
